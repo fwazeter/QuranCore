@@ -1,0 +1,150 @@
+{
+    "SurahID": 1,
+    "Name": "الفاتحة",
+    "TotalNumberedVerses": 7,
+    "TotalVerses": 7,
+    "Ayahs": [
+        {
+            "AyahID": 1,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "SanitizedText": "ٱلحمد لله رب ٱلعـٰلمين",
+            "TotalWords": 4,
+            "TotalGematricValue": 579,
+            "Words": [
+                "ٱلحمد",
+                "لله",
+                "رب",
+                "ٱلعـٰلمين"
+            ],
+            "GematricValues": [
+                82,
+                65,
+                202,
+                230
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 2,
+            "TotalGematricValue": 616,
+            "Words": [
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                328,
+                288
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+            "SanitizedText": "مـٰلك يوم ٱلدين",
+            "TotalWords": 3,
+            "TotalGematricValue": 240,
+            "Words": [
+                "مـٰلك",
+                "يوم",
+                "ٱلدين"
+            ],
+            "GematricValues": [
+                90,
+                56,
+                94
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "SanitizedText": "اياك نعبد واياك نستعين",
+            "TotalWords": 4,
+            "TotalGematricValue": 836,
+            "Words": [
+                "اياك",
+                "نعبد",
+                "واياك",
+                "نستعين"
+            ],
+            "GematricValues": [
+                32,
+                126,
+                38,
+                640
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+            "SanitizedText": "ٱهدنا ٱلصرٰط ٱلمستقيم",
+            "TotalWords": 3,
+            "TotalGematricValue": 1069,
+            "Words": [
+                "ٱهدنا",
+                "ٱلصرٰط",
+                "ٱلمستقيم"
+            ],
+            "GematricValues": [
+                60,
+                329,
+                680
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+            "SanitizedText": "صرٰط ٱلذين انعمت عليهم غير ٱلمغضوب عليهم ولا ٱلضآلين",
+            "TotalWords": 9,
+            "TotalGematricValue": 6006,
+            "Words": [
+                "صرٰط",
+                "ٱلذين",
+                "انعمت",
+                "عليهم",
+                "غير",
+                "ٱلمغضوب",
+                "عليهم",
+                "ولا",
+                "ٱلضآلين"
+            ],
+            "GematricValues": [
+                299,
+                790,
+                561,
+                155,
+                1210,
+                1878,
+                155,
+                37,
+                921
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

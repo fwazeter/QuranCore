@@ -1,0 +1,192 @@
+{
+    "SurahID": 95,
+    "Name": "التين",
+    "TotalNumberedVerses": 8,
+    "TotalVerses": 9,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+            "SanitizedText": "وٱلتين وٱلزيتون",
+            "TotalWords": 2,
+            "TotalGematricValue": 1005,
+            "Words": [
+                "وٱلتين",
+                "وٱلزيتون"
+            ],
+            "GematricValues": [
+                496,
+                509
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "وَطُورِ سِينِينَ",
+            "SanitizedText": "وطور سينين",
+            "TotalWords": 2,
+            "TotalGematricValue": 401,
+            "Words": [
+                "وطور",
+                "سينين"
+            ],
+            "GematricValues": [
+                221,
+                180
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+            "SanitizedText": "وهـٰذا ٱلبلد ٱلامين",
+            "TotalWords": 3,
+            "TotalGematricValue": 909,
+            "Words": [
+                "وهـٰذا",
+                "ٱلبلد",
+                "ٱلامين"
+            ],
+            "GematricValues": [
+                712,
+                66,
+                131
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+            "SanitizedText": "لقد خلقنا ٱلانسـٰن فيٓ احسن تقويم",
+            "TotalWords": 6,
+            "TotalGematricValue": 1871,
+            "Words": [
+                "لقد",
+                "خلقنا",
+                "ٱلانسـٰن",
+                "فيٓ",
+                "احسن",
+                "تقويم"
+            ],
+            "GematricValues": [
+                134,
+                781,
+                191,
+                90,
+                119,
+                556
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+            "SanitizedText": "ثم رددنـٰه اسفل سـٰفلين",
+            "TotalWords": 4,
+            "TotalGematricValue": 1204,
+            "Words": [
+                "ثم",
+                "رددنـٰه",
+                "اسفل",
+                "سـٰفلين"
+            ],
+            "GematricValues": [
+                540,
+                263,
+                171,
+                230
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+            "SanitizedText": "الا ٱلذين ءامنوا۟ وعملوا۟ ٱلصـٰلحـٰت فلهم اجر غير ممنون",
+            "TotalWords": 9,
+            "TotalGematricValue": 3386,
+            "Words": [
+                "الا",
+                "ٱلذين",
+                "ءامنوا۟",
+                "وعملوا۟",
+                "ٱلصـٰلحـٰت",
+                "فلهم",
+                "اجر",
+                "غير",
+                "ممنون"
+            ],
+            "GematricValues": [
+                32,
+                790,
+                98,
+                153,
+                558,
+                155,
+                204,
+                1210,
+                186
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+            "SanitizedText": "فما يكذبك بعد بٱلدين",
+            "TotalWords": 4,
+            "TotalGematricValue": 1045,
+            "Words": [
+                "فما",
+                "يكذبك",
+                "بعد",
+                "بٱلدين"
+            ],
+            "GematricValues": [
+                121,
+                752,
+                76,
+                96
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+            "SanitizedText": "اليس ٱلله باحكم ٱلحـٰكمين",
+            "TotalWords": 4,
+            "TotalGematricValue": 395,
+            "Words": [
+                "اليس",
+                "ٱلله",
+                "باحكم",
+                "ٱلحـٰكمين"
+            ],
+            "GematricValues": [
+                101,
+                65,
+                71,
+                158
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "SurahID": 105,
+    "Name": "الفيل",
+    "TotalNumberedVerses": 5,
+    "TotalVerses": 6,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+            "SanitizedText": "الم تر كيف فعل ربك باصحـٰب ٱلفيل",
+            "TotalWords": 7,
+            "TotalGematricValue": 1436,
+            "Words": [
+                "الم",
+                "تر",
+                "كيف",
+                "فعل",
+                "ربك",
+                "باصحـٰب",
+                "ٱلفيل"
+            ],
+            "GematricValues": [
+                71,
+                600,
+                110,
+                180,
+                222,
+                103,
+                150
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+            "SanitizedText": "الم يجعل كيدهم في تضليل",
+            "TotalWords": 5,
+            "TotalGematricValue": 1623,
+            "Words": [
+                "الم",
+                "يجعل",
+                "كيدهم",
+                "في",
+                "تضليل"
+            ],
+            "GematricValues": [
+                71,
+                113,
+                79,
+                90,
+                1270
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+            "SanitizedText": "وارسل عليهم طيرا ابابيل",
+            "TotalWords": 4,
+            "TotalGematricValue": 718,
+            "Words": [
+                "وارسل",
+                "عليهم",
+                "طيرا",
+                "ابابيل"
+            ],
+            "GematricValues": [
+                297,
+                155,
+                220,
+                46
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+            "SanitizedText": "ترميهم بحجاره من سجيل",
+            "TotalWords": 4,
+            "TotalGematricValue": 1107,
+            "Words": [
+                "ترميهم",
+                "بحجاره",
+                "من",
+                "سجيل"
+            ],
+            "GematricValues": [
+                695,
+                219,
+                90,
+                103
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+            "SanitizedText": "فجعلهم كعصف ماكولۭ",
+            "TotalWords": 3,
+            "TotalGematricValue": 585,
+            "Words": [
+                "فجعلهم",
+                "كعصف",
+                "ماكولۭ"
+            ],
+            "GematricValues": [
+                228,
+                260,
+                97
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

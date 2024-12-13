@@ -1,0 +1,240 @@
+{
+    "SurahID": 93,
+    "Name": "الضحى",
+    "TotalNumberedVerses": 11,
+    "TotalVerses": 12,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "وَٱلضُّحَىٰ",
+            "SanitizedText": "وٱلضحيٰ",
+            "TotalWords": 1,
+            "TotalGematricValue": 854,
+            "Words": [
+                "وٱلضحيٰ"
+            ],
+            "GematricValues": [
+                854
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+            "SanitizedText": "وٱليل اذا سجيٰ",
+            "TotalWords": 3,
+            "TotalGematricValue": 851,
+            "Words": [
+                "وٱليل",
+                "اذا",
+                "سجيٰ"
+            ],
+            "GematricValues": [
+                76,
+                702,
+                73
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+            "SanitizedText": "ما ودعك ربك وما قليٰ",
+            "TotalWords": 5,
+            "TotalGematricValue": 550,
+            "Words": [
+                "ما",
+                "ودعك",
+                "ربك",
+                "وما",
+                "قليٰ"
+            ],
+            "GematricValues": [
+                41,
+                100,
+                222,
+                47,
+                140
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+            "SanitizedText": "وللـٔاخره خير لك من ٱلاوليٰ",
+            "TotalWords": 5,
+            "TotalGematricValue": 1899,
+            "Words": [
+                "وللـٔاخره",
+                "خير",
+                "لك",
+                "من",
+                "ٱلاوليٰ"
+            ],
+            "GematricValues": [
+                872,
+                810,
+                50,
+                90,
+                77
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+            "SanitizedText": "ولسوف يعطيك ربك فترضيٰٓ",
+            "TotalWords": 4,
+            "TotalGematricValue": 2013,
+            "Words": [
+                "ولسوف",
+                "يعطيك",
+                "ربك",
+                "فترضيٰٓ"
+            ],
+            "GematricValues": [
+                182,
+                119,
+                222,
+                1490
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+            "SanitizedText": "الم يجدك يتيما فـٔاويٰ",
+            "TotalWords": 4,
+            "TotalGematricValue": 666,
+            "Words": [
+                "الم",
+                "يجدك",
+                "يتيما",
+                "فـٔاويٰ"
+            ],
+            "GematricValues": [
+                71,
+                37,
+                461,
+                97
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+            "SanitizedText": "ووجدك ضآلا فهديٰ",
+            "TotalWords": 3,
+            "TotalGematricValue": 970,
+            "Words": [
+                "ووجدك",
+                "ضآلا",
+                "فهديٰ"
+            ],
+            "GematricValues": [
+                39,
+                832,
+                99
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+            "SanitizedText": "ووجدك عآئلا فاغنيٰ",
+            "TotalWords": 3,
+            "TotalGematricValue": 1282,
+            "Words": [
+                "ووجدك",
+                "عآئلا",
+                "فاغنيٰ"
+            ],
+            "GematricValues": [
+                39,
+                102,
+                1141
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 9,
+            "RawText": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+            "SanitizedText": "فاما ٱليتيم فلا تقهر",
+            "TotalWords": 4,
+            "TotalGematricValue": 1428,
+            "Words": [
+                "فاما",
+                "ٱليتيم",
+                "فلا",
+                "تقهر"
+            ],
+            "GematricValues": [
+                122,
+                490,
+                111,
+                705
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 10,
+            "RawText": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+            "SanitizedText": "واما ٱلسآئل فلا تنهر",
+            "TotalWords": 4,
+            "TotalGematricValue": 935,
+            "Words": [
+                "واما",
+                "ٱلسآئل",
+                "فلا",
+                "تنهر"
+            ],
+            "GematricValues": [
+                48,
+                121,
+                111,
+                655
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 11,
+            "RawText": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+            "SanitizedText": "واما بنعمه ربك فحدث",
+            "TotalWords": 4,
+            "TotalGematricValue": 1029,
+            "Words": [
+                "واما",
+                "بنعمه",
+                "ربك",
+                "فحدث"
+            ],
+            "GematricValues": [
+                48,
+                167,
+                222,
+                592
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

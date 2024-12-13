@@ -1,0 +1,178 @@
+{
+    "SurahID": 94,
+    "Name": "الشرح",
+    "TotalNumberedVerses": 8,
+    "TotalVerses": 9,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+            "SanitizedText": "الم نشرح لك صدرك",
+            "TotalWords": 4,
+            "TotalGematricValue": 993,
+            "Words": [
+                "الم",
+                "نشرح",
+                "لك",
+                "صدرك"
+            ],
+            "GematricValues": [
+                71,
+                558,
+                50,
+                314
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+            "SanitizedText": "ووضعنا عنك وزرك",
+            "TotalWords": 3,
+            "TotalGematricValue": 1306,
+            "Words": [
+                "ووضعنا",
+                "عنك",
+                "وزرك"
+            ],
+            "GematricValues": [
+                933,
+                140,
+                233
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+            "SanitizedText": "ٱلذيٓ انقض ظهرك",
+            "TotalWords": 3,
+            "TotalGematricValue": 2816,
+            "Words": [
+                "ٱلذيٓ",
+                "انقض",
+                "ظهرك"
+            ],
+            "GematricValues": [
+                740,
+                951,
+                1125
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+            "SanitizedText": "ورفعنا لك ذكرك",
+            "TotalWords": 3,
+            "TotalGematricValue": 1397,
+            "Words": [
+                "ورفعنا",
+                "لك",
+                "ذكرك"
+            ],
+            "GematricValues": [
+                407,
+                50,
+                940
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "SanitizedText": "فان مع ٱلعسر يسرا",
+            "TotalWords": 4,
+            "TotalGematricValue": 872,
+            "Words": [
+                "فان",
+                "مع",
+                "ٱلعسر",
+                "يسرا"
+            ],
+            "GematricValues": [
+                131,
+                110,
+                360,
+                271
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "SanitizedText": "ان مع ٱلعسر يسرا",
+            "TotalWords": 4,
+            "TotalGematricValue": 792,
+            "Words": [
+                "ان",
+                "مع",
+                "ٱلعسر",
+                "يسرا"
+            ],
+            "GematricValues": [
+                51,
+                110,
+                360,
+                271
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+            "SanitizedText": "فاذا فرغت فٱنصب",
+            "TotalWords": 3,
+            "TotalGematricValue": 2684,
+            "Words": [
+                "فاذا",
+                "فرغت",
+                "فٱنصب"
+            ],
+            "GematricValues": [
+                782,
+                1680,
+                222
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+            "SanitizedText": "واليٰ ربك فٱرغب",
+            "TotalWords": 3,
+            "TotalGematricValue": 1551,
+            "Words": [
+                "واليٰ",
+                "ربك",
+                "فٱرغب"
+            ],
+            "GematricValues": [
+                47,
+                222,
+                1282
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "SurahID": 113,
+    "Name": "الفلق",
+    "TotalNumberedVerses": 5,
+    "TotalVerses": 6,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "SanitizedText": "قل اعوذ برب ٱلفلق",
+            "TotalWords": 4,
+            "TotalGematricValue": 1351,
+            "Words": [
+                "قل",
+                "اعوذ",
+                "برب",
+                "ٱلفلق"
+            ],
+            "GematricValues": [
+                130,
+                777,
+                204,
+                240
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "مِن شَرِّ مَا خَلَقَ",
+            "SanitizedText": "من شر ما خلق",
+            "TotalWords": 4,
+            "TotalGematricValue": 1361,
+            "Words": [
+                "من",
+                "شر",
+                "ما",
+                "خلق"
+            ],
+            "GematricValues": [
+                90,
+                500,
+                41,
+                730
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "SanitizedText": "ومن شر غاسق اذا وقب",
+            "TotalWords": 5,
+            "TotalGematricValue": 2567,
+            "Words": [
+                "ومن",
+                "شر",
+                "غاسق",
+                "اذا",
+                "وقب"
+            ],
+            "GematricValues": [
+                96,
+                500,
+                1161,
+                702,
+                108
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+            "SanitizedText": "ومن شر ٱلنفـٰثـٰت في ٱلعقد",
+            "TotalWords": 5,
+            "TotalGematricValue": 1950,
+            "Words": [
+                "ومن",
+                "شر",
+                "ٱلنفـٰثـٰت",
+                "في",
+                "ٱلعقد"
+            ],
+            "GematricValues": [
+                96,
+                500,
+                1060,
+                90,
+                204
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "SanitizedText": "ومن شر حاسد اذا حسد",
+            "TotalWords": 5,
+            "TotalGematricValue": 1443,
+            "Words": [
+                "ومن",
+                "شر",
+                "حاسد",
+                "اذا",
+                "حسد"
+            ],
+            "GematricValues": [
+                96,
+                500,
+                73,
+                702,
+                72
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

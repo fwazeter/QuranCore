@@ -1,0 +1,92 @@
+{
+    "SurahID": 103,
+    "Name": "العصر",
+    "TotalNumberedVerses": 3,
+    "TotalVerses": 4,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "وَٱلْعَصْرِ",
+            "SanitizedText": "وٱلعصر",
+            "TotalWords": 1,
+            "TotalGematricValue": 396,
+            "Words": [
+                "وٱلعصر"
+            ],
+            "GematricValues": [
+                396
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+            "SanitizedText": "ان ٱلانسـٰن لفي خسر",
+            "TotalWords": 4,
+            "TotalGematricValue": 1222,
+            "Words": [
+                "ان",
+                "ٱلانسـٰن",
+                "لفي",
+                "خسر"
+            ],
+            "GematricValues": [
+                51,
+                191,
+                120,
+                860
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+            "SanitizedText": "الا ٱلذين ءامنوا۟ وعملوا۟ ٱلصـٰلحـٰت وتواصوا۟ بٱلحق وتواصوا۟ بٱلصبر",
+            "TotalWords": 9,
+            "TotalGematricValue": 3115,
+            "Words": [
+                "الا",
+                "ٱلذين",
+                "ءامنوا۟",
+                "وعملوا۟",
+                "ٱلصـٰلحـٰت",
+                "وتواصوا۟",
+                "بٱلحق",
+                "وتواصوا۟",
+                "بٱلصبر"
+            ],
+            "GematricValues": [
+                32,
+                790,
+                98,
+                153,
+                558,
+                510,
+                140,
+                510,
+                324
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "SurahID": 112,
+    "Name": "الإخلاص",
+    "TotalNumberedVerses": 4,
+    "TotalVerses": 5,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "SanitizedText": "قل هو ٱلله احد",
+            "TotalWords": 4,
+            "TotalGematricValue": 219,
+            "Words": [
+                "قل",
+                "هو",
+                "ٱلله",
+                "احد"
+            ],
+            "GematricValues": [
+                130,
+                11,
+                65,
+                13
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "ٱللَّهُ ٱلصَّمَدُ",
+            "SanitizedText": "ٱلله ٱلصمد",
+            "TotalWords": 2,
+            "TotalGematricValue": 229,
+            "Words": [
+                "ٱلله",
+                "ٱلصمد"
+            ],
+            "GematricValues": [
+                65,
+                164
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "SanitizedText": "لم يلد ولم يولد",
+            "TotalWords": 4,
+            "TotalGematricValue": 240,
+            "Words": [
+                "لم",
+                "يلد",
+                "ولم",
+                "يولد"
+            ],
+            "GematricValues": [
+                70,
+                44,
+                76,
+                50
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "SanitizedText": "ولم يكن لهۥ كفوا احدۢ",
+            "TotalWords": 5,
+            "TotalGematricValue": 311,
+            "Words": [
+                "ولم",
+                "يكن",
+                "لهۥ",
+                "كفوا",
+                "احدۢ"
+            ],
+            "GematricValues": [
+                76,
+                80,
+                35,
+                107,
+                13
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

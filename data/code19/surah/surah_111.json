@@ -1,0 +1,134 @@
+{
+    "SurahID": 111,
+    "Name": "المسد",
+    "TotalNumberedVerses": 5,
+    "TotalVerses": 6,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+            "SanitizedText": "تبت يدآ ابي لهب وتب",
+            "TotalWords": 5,
+            "TotalGematricValue": 1275,
+            "Words": [
+                "تبت",
+                "يدآ",
+                "ابي",
+                "لهب",
+                "وتب"
+            ],
+            "GematricValues": [
+                802,
+                15,
+                13,
+                37,
+                408
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+            "SanitizedText": "مآ اغنيٰ عنه مالهۥ وما كسب",
+            "TotalWords": 6,
+            "TotalGematricValue": 1432,
+            "Words": [
+                "مآ",
+                "اغنيٰ",
+                "عنه",
+                "مالهۥ",
+                "وما",
+                "كسب"
+            ],
+            "GematricValues": [
+                41,
+                1061,
+                125,
+                76,
+                47,
+                82
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+            "SanitizedText": "سيصليٰ نارا ذات لهب",
+            "TotalWords": 4,
+            "TotalGematricValue": 1590,
+            "Words": [
+                "سيصليٰ",
+                "نارا",
+                "ذات",
+                "لهب"
+            ],
+            "GematricValues": [
+                200,
+                252,
+                1101,
+                37
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+            "SanitizedText": "وٱمراتهۥ حماله ٱلحطب",
+            "TotalWords": 3,
+            "TotalGematricValue": 785,
+            "Words": [
+                "وٱمراتهۥ",
+                "حماله",
+                "ٱلحطب"
+            ],
+            "GematricValues": [
+                652,
+                84,
+                49
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+            "SanitizedText": "في جيدها حبل من مسدۭ",
+            "TotalWords": 5,
+            "TotalGematricValue": 347,
+            "Words": [
+                "في",
+                "جيدها",
+                "حبل",
+                "من",
+                "مسدۭ"
+            ],
+            "GematricValues": [
+                90,
+                23,
+                40,
+                90,
+                104
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

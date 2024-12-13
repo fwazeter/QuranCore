@@ -1,0 +1,180 @@
+{
+    "SurahID": 102,
+    "Name": "التكاثر",
+    "TotalNumberedVerses": 8,
+    "TotalVerses": 9,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+            "SanitizedText": "الهيٰكم ٱلتكاثر",
+            "TotalWords": 2,
+            "TotalGematricValue": 1257,
+            "Words": [
+                "الهيٰكم",
+                "ٱلتكاثر"
+            ],
+            "GematricValues": [
+                106,
+                1151
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+            "SanitizedText": "حتيٰ زرتم ٱلمقابر",
+            "TotalWords": 3,
+            "TotalGematricValue": 1438,
+            "Words": [
+                "حتيٰ",
+                "زرتم",
+                "ٱلمقابر"
+            ],
+            "GematricValues": [
+                418,
+                647,
+                373
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "كَلَّا سَوْفَ تَعْلَمُونَ",
+            "SanitizedText": "كلا سوف تعلمون",
+            "TotalWords": 3,
+            "TotalGematricValue": 793,
+            "Words": [
+                "كلا",
+                "سوف",
+                "تعلمون"
+            ],
+            "GematricValues": [
+                51,
+                146,
+                596
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+            "SanitizedText": "ثم كلا سوف تعلمون",
+            "TotalWords": 4,
+            "TotalGematricValue": 1333,
+            "Words": [
+                "ثم",
+                "كلا",
+                "سوف",
+                "تعلمون"
+            ],
+            "GematricValues": [
+                540,
+                51,
+                146,
+                596
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+            "SanitizedText": "كلا لو تعلمون علم ٱليقين",
+            "TotalWords": 5,
+            "TotalGematricValue": 1023,
+            "Words": [
+                "كلا",
+                "لو",
+                "تعلمون",
+                "علم",
+                "ٱليقين"
+            ],
+            "GematricValues": [
+                51,
+                36,
+                596,
+                140,
+                200
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+            "SanitizedText": "لترون ٱلجحيم",
+            "TotalWords": 2,
+            "TotalGematricValue": 777,
+            "Words": [
+                "لترون",
+                "ٱلجحيم"
+            ],
+            "GematricValues": [
+                686,
+                91
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+            "SanitizedText": "ثم لترونها عين ٱليقين",
+            "TotalWords": 4,
+            "TotalGematricValue": 1562,
+            "Words": [
+                "ثم",
+                "لترونها",
+                "عين",
+                "ٱليقين"
+            ],
+            "GematricValues": [
+                540,
+                692,
+                130,
+                200
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+            "SanitizedText": "ثم لتسـٔلن يومئذ عن ٱلنعيم",
+            "TotalWords": 5,
+            "TotalGematricValue": 2186,
+            "Words": [
+                "ثم",
+                "لتسـٔلن",
+                "يومئذ",
+                "عن",
+                "ٱلنعيم"
+            ],
+            "GematricValues": [
+                540,
+                570,
+                756,
+                120,
+                200
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

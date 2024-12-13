@@ -1,0 +1,8 @@
+{
+  "total_words": 77430,
+  "unique_words": 20000,
+  "most_frequent_words": [
+    {"word": "اللَّهِ", "count": 3000},
+    {"word": "رَحْمَٰنِ", "count": 1500}
+  ]
+}

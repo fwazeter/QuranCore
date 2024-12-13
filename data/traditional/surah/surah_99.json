@@ -1,0 +1,196 @@
+{
+    "SurahID": 99,
+    "Name": "الزلزلة",
+    "TotalNumberedVerses": 8,
+    "TotalVerses": 9,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+            "SanitizedText": "اذا زلزلت ٱلارض زلزالها",
+            "TotalWords": 4,
+            "TotalGematricValue": 2288,
+            "Words": [
+                "اذا",
+                "زلزلت",
+                "ٱلارض",
+                "زلزالها"
+            ],
+            "GematricValues": [
+                702,
+                474,
+                1031,
+                81
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+            "SanitizedText": "واخرجت ٱلارض اثقالها",
+            "TotalWords": 3,
+            "TotalGematricValue": 2879,
+            "Words": [
+                "واخرجت",
+                "ٱلارض",
+                "اثقالها"
+            ],
+            "GematricValues": [
+                1210,
+                1031,
+                638
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+            "SanitizedText": "وقال ٱلانسـٰن ما لها",
+            "TotalWords": 4,
+            "TotalGematricValue": 405,
+            "Words": [
+                "وقال",
+                "ٱلانسـٰن",
+                "ما",
+                "لها"
+            ],
+            "GematricValues": [
+                137,
+                191,
+                41,
+                36
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+            "SanitizedText": "يومئذ تحدث اخبارها",
+            "TotalWords": 3,
+            "TotalGematricValue": 2478,
+            "Words": [
+                "يومئذ",
+                "تحدث",
+                "اخبارها"
+            ],
+            "GematricValues": [
+                756,
+                912,
+                810
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+            "SanitizedText": "بان ربك اوحيٰ لها",
+            "TotalWords": 4,
+            "TotalGematricValue": 336,
+            "Words": [
+                "بان",
+                "ربك",
+                "اوحيٰ",
+                "لها"
+            ],
+            "GematricValues": [
+                53,
+                222,
+                25,
+                36
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+            "SanitizedText": "يومئذ يصدر ٱلناس اشتاتا ليروا۟ اعمـٰلهم",
+            "TotalWords": 6,
+            "TotalGematricValue": 2737,
+            "Words": [
+                "يومئذ",
+                "يصدر",
+                "ٱلناس",
+                "اشتاتا",
+                "ليروا۟",
+                "اعمـٰلهم"
+            ],
+            "GematricValues": [
+                756,
+                304,
+                141,
+                1103,
+                247,
+                186
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+            "SanitizedText": "فمن يعمل مثقال ذره خيرا يرهۥ",
+            "TotalWords": 6,
+            "TotalGematricValue": 2922,
+            "Words": [
+                "فمن",
+                "يعمل",
+                "مثقال",
+                "ذره",
+                "خيرا",
+                "يرهۥ"
+            ],
+            "GematricValues": [
+                170,
+                150,
+                671,
+                905,
+                811,
+                215
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+            "SanitizedText": "ومن يعمل مثقال ذره شرا يرهۥ",
+            "TotalWords": 6,
+            "TotalGematricValue": 2538,
+            "Words": [
+                "ومن",
+                "يعمل",
+                "مثقال",
+                "ذره",
+                "شرا",
+                "يرهۥ"
+            ],
+            "GematricValues": [
+                96,
+                150,
+                671,
+                905,
+                501,
+                215
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "SurahID": 110,
+    "Name": "النصر",
+    "TotalNumberedVerses": 3,
+    "TotalVerses": 4,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+            "SanitizedText": "اذا جآء نصر ٱلله وٱلفتح",
+            "TotalWords": 5,
+            "TotalGematricValue": 1635,
+            "Words": [
+                "اذا",
+                "جآء",
+                "نصر",
+                "ٱلله",
+                "وٱلفتح"
+            ],
+            "GematricValues": [
+                702,
+                4,
+                340,
+                65,
+                524
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+            "SanitizedText": "ورايت ٱلناس يدخلون في دين ٱلله افواجا",
+            "TotalWords": 7,
+            "TotalGematricValue": 1769,
+            "Words": [
+                "ورايت",
+                "ٱلناس",
+                "يدخلون",
+                "في",
+                "دين",
+                "ٱلله",
+                "افواجا"
+            ],
+            "GematricValues": [
+                617,
+                141,
+                700,
+                90,
+                64,
+                65,
+                92
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+            "SanitizedText": "فسبح بحمد ربك وٱستغفره ۚ انهۥ كان توابۢا",
+            "TotalWords": 8,
+            "TotalGematricValue": 2714,
+            "Words": [
+                "فسبح",
+                "بحمد",
+                "ربك",
+                "وٱستغفره",
+                "ۚ",
+                "انهۥ",
+                "كان",
+                "توابۢا"
+            ],
+            "GematricValues": [
+                150,
+                54,
+                222,
+                1751,
+                0,
+                56,
+                71,
+                410
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

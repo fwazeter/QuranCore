@@ -1,0 +1,148 @@
+{
+    "SurahID": 97,
+    "Name": "القدر",
+    "TotalNumberedVerses": 5,
+    "TotalVerses": 6,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+            "SanitizedText": "انآ انزلنـٰه في ليله ٱلقدر",
+            "TotalWords": 5,
+            "TotalGematricValue": 694,
+            "Words": [
+                "انآ",
+                "انزلنـٰه",
+                "في",
+                "ليله",
+                "ٱلقدر"
+            ],
+            "GematricValues": [
+                52,
+                143,
+                90,
+                75,
+                334
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+            "SanitizedText": "ومآ ادريٰك ما ليله ٱلقدر",
+            "TotalWords": 5,
+            "TotalGematricValue": 732,
+            "Words": [
+                "ومآ",
+                "ادريٰك",
+                "ما",
+                "ليله",
+                "ٱلقدر"
+            ],
+            "GematricValues": [
+                47,
+                235,
+                41,
+                75,
+                334
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+            "SanitizedText": "ليله ٱلقدر خير من الف شهر",
+            "TotalWords": 6,
+            "TotalGematricValue": 1925,
+            "Words": [
+                "ليله",
+                "ٱلقدر",
+                "خير",
+                "من",
+                "الف",
+                "شهر"
+            ],
+            "GematricValues": [
+                75,
+                334,
+                810,
+                90,
+                111,
+                505
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+            "SanitizedText": "تنزل ٱلملـٰٓئكه وٱلروح فيها باذن ربهم من كل امر",
+            "TotalWords": 9,
+            "TotalGematricValue": 2339,
+            "Words": [
+                "تنزل",
+                "ٱلملـٰٓئكه",
+                "وٱلروح",
+                "فيها",
+                "باذن",
+                "ربهم",
+                "من",
+                "كل",
+                "امر"
+            ],
+            "GematricValues": [
+                487,
+                125,
+                250,
+                96,
+                753,
+                247,
+                90,
+                50,
+                241
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+            "SanitizedText": "سلـٰم هي حتيٰ مطلع ٱلفجر",
+            "TotalWords": 5,
+            "TotalGematricValue": 1025,
+            "Words": [
+                "سلـٰم",
+                "هي",
+                "حتيٰ",
+                "مطلع",
+                "ٱلفجر"
+            ],
+            "GematricValues": [
+                130,
+                15,
+                418,
+                149,
+                313
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

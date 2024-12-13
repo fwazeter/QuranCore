@@ -1,0 +1,998 @@
+{
+    "SurahID": 70,
+    "Name": "المعارج",
+    "TotalNumberedVerses": 44,
+    "TotalVerses": 45,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+            "SanitizedText": "سال سآئلۢ بعذاب واقع",
+            "TotalWords": 4,
+            "TotalGematricValue": 1134,
+            "Words": [
+                "سال",
+                "سآئلۢ",
+                "بعذاب",
+                "واقع"
+            ],
+            "GematricValues": [
+                91,
+                91,
+                775,
+                177
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+            "SanitizedText": "للكـٰفرين ليس لهۥ دافع",
+            "TotalWords": 4,
+            "TotalGematricValue": 710,
+            "Words": [
+                "للكـٰفرين",
+                "ليس",
+                "لهۥ",
+                "دافع"
+            ],
+            "GematricValues": [
+                420,
+                100,
+                35,
+                155
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+            "SanitizedText": "من ٱلله ذي ٱلمعارج",
+            "TotalWords": 4,
+            "TotalGematricValue": 1209,
+            "Words": [
+                "من",
+                "ٱلله",
+                "ذي",
+                "ٱلمعارج"
+            ],
+            "GematricValues": [
+                90,
+                65,
+                710,
+                344
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+            "SanitizedText": "تعرج ٱلملـٰٓئكه وٱلروح اليه في يوم كان مقدارهۥ خمسين الف سنه",
+            "TotalWords": 11,
+            "TotalGematricValue": 2647,
+            "Words": [
+                "تعرج",
+                "ٱلملـٰٓئكه",
+                "وٱلروح",
+                "اليه",
+                "في",
+                "يوم",
+                "كان",
+                "مقدارهۥ",
+                "خمسين",
+                "الف",
+                "سنه"
+            ],
+            "GematricValues": [
+                673,
+                125,
+                250,
+                46,
+                90,
+                56,
+                71,
+                350,
+                760,
+                111,
+                115
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+            "SanitizedText": "فٱصبر صبرا جميلا",
+            "TotalWords": 3,
+            "TotalGematricValue": 749,
+            "Words": [
+                "فٱصبر",
+                "صبرا",
+                "جميلا"
+            ],
+            "GematricValues": [
+                372,
+                293,
+                84
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+            "SanitizedText": "انهم يرونهۥ بعيدا",
+            "TotalWords": 3,
+            "TotalGematricValue": 454,
+            "Words": [
+                "انهم",
+                "يرونهۥ",
+                "بعيدا"
+            ],
+            "GematricValues": [
+                96,
+                271,
+                87
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "وَنَرَىٰهُ قَرِيبًا",
+            "SanitizedText": "ونريٰه قريبا",
+            "TotalWords": 2,
+            "TotalGematricValue": 584,
+            "Words": [
+                "ونريٰه",
+                "قريبا"
+            ],
+            "GematricValues": [
+                271,
+                313
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+            "SanitizedText": "يوم تكون ٱلسمآء كٱلمهل",
+            "TotalWords": 4,
+            "TotalGematricValue": 788,
+            "Words": [
+                "يوم",
+                "تكون",
+                "ٱلسمآء",
+                "كٱلمهل"
+            ],
+            "GematricValues": [
+                56,
+                476,
+                131,
+                125
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 9,
+            "RawText": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+            "SanitizedText": "وتكون ٱلجبال كٱلعهن",
+            "TotalWords": 3,
+            "TotalGematricValue": 723,
+            "Words": [
+                "وتكون",
+                "ٱلجبال",
+                "كٱلعهن"
+            ],
+            "GematricValues": [
+                482,
+                66,
+                175
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 10,
+            "RawText": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+            "SanitizedText": "ولا يسـٔل حميم حميما",
+            "TotalWords": 4,
+            "TotalGematricValue": 334,
+            "Words": [
+                "ولا",
+                "يسـٔل",
+                "حميم",
+                "حميما"
+            ],
+            "GematricValues": [
+                37,
+                100,
+                98,
+                99
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 11,
+            "RawText": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+            "SanitizedText": "يبصرونهم ۚ يود ٱلمجرم لو يفتدي من عذاب يومئذۭ ببنيه",
+            "TotalWords": 10,
+            "TotalGematricValue": 2964,
+            "Words": [
+                "يبصرونهم",
+                "ۚ",
+                "يود",
+                "ٱلمجرم",
+                "لو",
+                "يفتدي",
+                "من",
+                "عذاب",
+                "يومئذۭ",
+                "ببنيه"
+            ],
+            "GematricValues": [
+                403,
+                0,
+                20,
+                313,
+                36,
+                504,
+                90,
+                773,
+                756,
+                69
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 12,
+            "RawText": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+            "SanitizedText": "وصـٰحبتهۦ واخيه",
+            "TotalWords": 2,
+            "TotalGematricValue": 1133,
+            "Words": [
+                "وصـٰحبتهۦ",
+                "واخيه"
+            ],
+            "GematricValues": [
+                511,
+                622
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 13,
+            "RawText": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+            "SanitizedText": "وفصيلته ٱلتي تـٔويه",
+            "TotalWords": 3,
+            "TotalGematricValue": 1482,
+            "Words": [
+                "وفصيلته",
+                "ٱلتي",
+                "تـٔويه"
+            ],
+            "GematricValues": [
+                621,
+                440,
+                421
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 14,
+            "RawText": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+            "SanitizedText": "ومن في ٱلارض جميعا ثم ينجيه",
+            "TotalWords": 6,
+            "TotalGematricValue": 1959,
+            "Words": [
+                "ومن",
+                "في",
+                "ٱلارض",
+                "جميعا",
+                "ثم",
+                "ينجيه"
+            ],
+            "GematricValues": [
+                96,
+                90,
+                1031,
+                124,
+                540,
+                78
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 15,
+            "RawText": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+            "SanitizedText": "كلآ ۖ انها لظيٰ",
+            "TotalWords": 4,
+            "TotalGematricValue": 1048,
+            "Words": [
+                "كلآ",
+                "ۖ",
+                "انها",
+                "لظيٰ"
+            ],
+            "GematricValues": [
+                51,
+                0,
+                57,
+                940
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 16,
+            "RawText": "نَزَّاعَةً لِّلشَّوَىٰ",
+            "SanitizedText": "نزاعه للشويٰ",
+            "TotalWords": 2,
+            "TotalGematricValue": 509,
+            "Words": [
+                "نزاعه",
+                "للشويٰ"
+            ],
+            "GematricValues": [
+                133,
+                376
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 17,
+            "RawText": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+            "SanitizedText": "تدعوا۟ من ادبر وتوليٰ",
+            "TotalWords": 4,
+            "TotalGematricValue": 1230,
+            "Words": [
+                "تدعوا۟",
+                "من",
+                "ادبر",
+                "وتوليٰ"
+            ],
+            "GematricValues": [
+                481,
+                90,
+                207,
+                452
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 18,
+            "RawText": "وَجَمَعَ فَأَوْعَىٰٓ",
+            "SanitizedText": "وجمع فاوعيٰٓ",
+            "TotalWords": 2,
+            "TotalGematricValue": 286,
+            "Words": [
+                "وجمع",
+                "فاوعيٰٓ"
+            ],
+            "GematricValues": [
+                119,
+                167
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 19,
+            "RawText": "إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+            "SanitizedText": "ان ٱلانسـٰن خلق هلوعا",
+            "TotalWords": 4,
+            "TotalGematricValue": 1084,
+            "Words": [
+                "ان",
+                "ٱلانسـٰن",
+                "خلق",
+                "هلوعا"
+            ],
+            "GematricValues": [
+                51,
+                191,
+                730,
+                112
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 20,
+            "RawText": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+            "SanitizedText": "اذا مسه ٱلشر جزوعا",
+            "TotalWords": 4,
+            "TotalGematricValue": 1424,
+            "Words": [
+                "اذا",
+                "مسه",
+                "ٱلشر",
+                "جزوعا"
+            ],
+            "GematricValues": [
+                702,
+                105,
+                530,
+                87
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 21,
+            "RawText": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+            "SanitizedText": "واذا مسه ٱلخير منوعا",
+            "TotalWords": 4,
+            "TotalGematricValue": 1820,
+            "Words": [
+                "واذا",
+                "مسه",
+                "ٱلخير",
+                "منوعا"
+            ],
+            "GematricValues": [
+                708,
+                105,
+                840,
+                167
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 22,
+            "RawText": "إِلَّا ٱلْمُصَلِّينَ",
+            "SanitizedText": "الا ٱلمصلين",
+            "TotalWords": 2,
+            "TotalGematricValue": 282,
+            "Words": [
+                "الا",
+                "ٱلمصلين"
+            ],
+            "GematricValues": [
+                32,
+                250
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 23,
+            "RawText": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+            "SanitizedText": "ٱلذين هم عليٰ صلاتهم دآئمون",
+            "TotalWords": 5,
+            "TotalGematricValue": 1612,
+            "Words": [
+                "ٱلذين",
+                "هم",
+                "عليٰ",
+                "صلاتهم",
+                "دآئمون"
+            ],
+            "GematricValues": [
+                790,
+                45,
+                110,
+                566,
+                101
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 24,
+            "RawText": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+            "SanitizedText": "وٱلذين فيٓ اموٰلهم حق معلوم",
+            "TotalWords": 5,
+            "TotalGematricValue": 1302,
+            "Words": [
+                "وٱلذين",
+                "فيٓ",
+                "اموٰلهم",
+                "حق",
+                "معلوم"
+            ],
+            "GematricValues": [
+                796,
+                90,
+                122,
+                108,
+                186
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 25,
+            "RawText": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+            "SanitizedText": "للسآئل وٱلمحروم",
+            "TotalWords": 2,
+            "TotalGematricValue": 481,
+            "Words": [
+                "للسآئل",
+                "وٱلمحروم"
+            ],
+            "GematricValues": [
+                151,
+                330
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 26,
+            "RawText": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+            "SanitizedText": "وٱلذين يصدقون بيوم ٱلدين",
+            "TotalWords": 4,
+            "TotalGematricValue": 1208,
+            "Words": [
+                "وٱلذين",
+                "يصدقون",
+                "بيوم",
+                "ٱلدين"
+            ],
+            "GematricValues": [
+                796,
+                260,
+                58,
+                94
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 27,
+            "RawText": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+            "SanitizedText": "وٱلذين هم من عذاب ربهم مشفقون",
+            "TotalWords": 6,
+            "TotalGematricValue": 2527,
+            "Words": [
+                "وٱلذين",
+                "هم",
+                "من",
+                "عذاب",
+                "ربهم",
+                "مشفقون"
+            ],
+            "GematricValues": [
+                796,
+                45,
+                90,
+                773,
+                247,
+                576
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 28,
+            "RawText": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+            "SanitizedText": "ان عذاب ربهم غير مامون",
+            "TotalWords": 5,
+            "TotalGematricValue": 2418,
+            "Words": [
+                "ان",
+                "عذاب",
+                "ربهم",
+                "غير",
+                "مامون"
+            ],
+            "GematricValues": [
+                51,
+                773,
+                247,
+                1210,
+                137
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 29,
+            "RawText": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+            "SanitizedText": "وٱلذين هم لفروجهم حـٰفظون",
+            "TotalWords": 4,
+            "TotalGematricValue": 2249,
+            "Words": [
+                "وٱلذين",
+                "هم",
+                "لفروجهم",
+                "حـٰفظون"
+            ],
+            "GematricValues": [
+                796,
+                45,
+                364,
+                1044
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 30,
+            "RawText": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+            "SanitizedText": "الا عليٰٓ ازوٰجهم او ما ملكت ايمـٰنهم فانهم غير ملومين",
+            "TotalWords": 10,
+            "TotalGematricValue": 2450,
+            "Words": [
+                "الا",
+                "عليٰٓ",
+                "ازوٰجهم",
+                "او",
+                "ما",
+                "ملكت",
+                "ايمـٰنهم",
+                "فانهم",
+                "غير",
+                "ملومين"
+            ],
+            "GematricValues": [
+                32,
+                110,
+                62,
+                7,
+                41,
+                490,
+                146,
+                176,
+                1210,
+                176
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 31,
+            "RawText": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+            "SanitizedText": "فمن ٱبتغيٰ ورآء ذٰلك فاو۟لـٰٓئك هم ٱلعادون",
+            "TotalWords": 7,
+            "TotalGematricValue": 2882,
+            "Words": [
+                "فمن",
+                "ٱبتغيٰ",
+                "ورآء",
+                "ذٰلك",
+                "فاو۟لـٰٓئك",
+                "هم",
+                "ٱلعادون"
+            ],
+            "GematricValues": [
+                170,
+                1412,
+                207,
+                750,
+                137,
+                45,
+                161
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 32,
+            "RawText": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+            "SanitizedText": "وٱلذين هم لامـٰنـٰتهم وعهدهم رٰعون",
+            "TotalWords": 5,
+            "TotalGematricValue": 1863,
+            "Words": [
+                "وٱلذين",
+                "هم",
+                "لامـٰنـٰتهم",
+                "وعهدهم",
+                "رٰعون"
+            ],
+            "GematricValues": [
+                796,
+                45,
+                566,
+                130,
+                326
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 33,
+            "RawText": "وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+            "SanitizedText": "وٱلذين هم بشهـٰدٰتهم قآئمون",
+            "TotalWords": 4,
+            "TotalGematricValue": 1794,
+            "Words": [
+                "وٱلذين",
+                "هم",
+                "بشهـٰدٰتهم",
+                "قآئمون"
+            ],
+            "GematricValues": [
+                796,
+                45,
+                756,
+                197
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 34,
+            "RawText": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+            "SanitizedText": "وٱلذين هم عليٰ صلاتهم يحافظون",
+            "TotalWords": 5,
+            "TotalGematricValue": 2572,
+            "Words": [
+                "وٱلذين",
+                "هم",
+                "عليٰ",
+                "صلاتهم",
+                "يحافظون"
+            ],
+            "GematricValues": [
+                796,
+                45,
+                110,
+                566,
+                1055
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 35,
+            "RawText": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+            "SanitizedText": "او۟لـٰٓئك في جنـٰت مكرمون",
+            "TotalWords": 4,
+            "TotalGematricValue": 956,
+            "Words": [
+                "او۟لـٰٓئك",
+                "في",
+                "جنـٰت",
+                "مكرمون"
+            ],
+            "GematricValues": [
+                57,
+                90,
+                453,
+                356
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 36,
+            "RawText": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+            "SanitizedText": "فمال ٱلذين كفروا۟ قبلك مهطعين",
+            "TotalWords": 5,
+            "TotalGematricValue": 1584,
+            "Words": [
+                "فمال",
+                "ٱلذين",
+                "كفروا۟",
+                "قبلك",
+                "مهطعين"
+            ],
+            "GematricValues": [
+                151,
+                790,
+                307,
+                152,
+                184
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 37,
+            "RawText": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+            "SanitizedText": "عن ٱليمين وعن ٱلشمال عزين",
+            "TotalWords": 5,
+            "TotalGematricValue": 924,
+            "Words": [
+                "عن",
+                "ٱليمين",
+                "وعن",
+                "ٱلشمال",
+                "عزين"
+            ],
+            "GematricValues": [
+                120,
+                140,
+                126,
+                401,
+                137
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 38,
+            "RawText": "أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+            "SanitizedText": "ايطمع كل ٱمرئ منهم ان يدخل جنه نعيم",
+            "TotalWords": 8,
+            "TotalGematricValue": 1478,
+            "Words": [
+                "ايطمع",
+                "كل",
+                "ٱمرئ",
+                "منهم",
+                "ان",
+                "يدخل",
+                "جنه",
+                "نعيم"
+            ],
+            "GematricValues": [
+                130,
+                50,
+                240,
+                135,
+                51,
+                644,
+                58,
+                170
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 39,
+            "RawText": "كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ",
+            "SanitizedText": "كلآ ۖ انا خلقنـٰهم مما يعلمون",
+            "TotalWords": 6,
+            "TotalGematricValue": 1215,
+            "Words": [
+                "كلآ",
+                "ۖ",
+                "انا",
+                "خلقنـٰهم",
+                "مما",
+                "يعلمون"
+            ],
+            "GematricValues": [
+                51,
+                0,
+                52,
+                825,
+                81,
+                206
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 40,
+            "RawText": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ",
+            "SanitizedText": "فلآ اقسم برب ٱلمشـٰرق وٱلمغـٰرب انا لقـٰدرون",
+            "TotalWords": 7,
+            "TotalGematricValue": 2906,
+            "Words": [
+                "فلآ",
+                "اقسم",
+                "برب",
+                "ٱلمشـٰرق",
+                "وٱلمغـٰرب",
+                "انا",
+                "لقـٰدرون"
+            ],
+            "GematricValues": [
+                111,
+                201,
+                204,
+                670,
+                1278,
+                52,
+                390
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 41,
+            "RawText": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+            "SanitizedText": "عليٰٓ ان نبدل خيرا منهم وما نحن بمسبوقين",
+            "TotalWords": 8,
+            "TotalGematricValue": 1618,
+            "Words": [
+                "عليٰٓ",
+                "ان",
+                "نبدل",
+                "خيرا",
+                "منهم",
+                "وما",
+                "نحن",
+                "بمسبوقين"
+            ],
+            "GematricValues": [
+                110,
+                51,
+                86,
+                811,
+                135,
+                47,
+                108,
+                270
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 42,
+            "RawText": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+            "SanitizedText": "فذرهم يخوضوا۟ ويلعبوا۟ حتيٰ يلـٰقوا۟ يومهم ٱلذي يوعدون",
+            "TotalWords": 8,
+            "TotalGematricValue": 4125,
+            "Words": [
+                "فذرهم",
+                "يخوضوا۟",
+                "ويلعبوا۟",
+                "حتيٰ",
+                "يلـٰقوا۟",
+                "يومهم",
+                "ٱلذي",
+                "يوعدون"
+            ],
+            "GematricValues": [
+                1025,
+                1423,
+                125,
+                418,
+                147,
+                101,
+                740,
+                146
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 43,
+            "RawText": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+            "SanitizedText": "يوم يخرجون من ٱلاجداث سراعا كانهم اليٰ نصب يوفضون",
+            "TotalWords": 9,
+            "TotalGematricValue": 3137,
+            "Words": [
+                "يوم",
+                "يخرجون",
+                "من",
+                "ٱلاجداث",
+                "سراعا",
+                "كانهم",
+                "اليٰ",
+                "نصب",
+                "يوفضون"
+            ],
+            "GematricValues": [
+                56,
+                869,
+                90,
+                539,
+                332,
+                116,
+                41,
+                142,
+                952
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 44,
+            "RawText": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+            "SanitizedText": "خـٰشعه ابصـٰرهم ترهقهم ذله ۚ ذٰلك ٱليوم ٱلذي كانوا۟ يوعدون",
+            "TotalWords": 10,
+            "TotalGematricValue": 4598,
+            "Words": [
+                "خـٰشعه",
+                "ابصـٰرهم",
+                "ترهقهم",
+                "ذله",
+                "ۚ",
+                "ذٰلك",
+                "ٱليوم",
+                "ٱلذي",
+                "كانوا۟",
+                "يوعدون"
+            ],
+            "GematricValues": [
+                975,
+                338,
+                750,
+                735,
+                0,
+                750,
+                86,
+                740,
+                78,
+                146
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

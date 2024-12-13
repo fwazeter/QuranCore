@@ -1,0 +1,84 @@
+{
+    "SurahID": 108,
+    "Name": "الكوثر",
+    "TotalNumberedVerses": 3,
+    "TotalVerses": 4,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+            "SanitizedText": "انآ اعطينـٰك ٱلكوثر",
+            "TotalWords": 3,
+            "TotalGematricValue": 968,
+            "Words": [
+                "انآ",
+                "اعطينـٰك",
+                "ٱلكوثر"
+            ],
+            "GematricValues": [
+                52,
+                160,
+                756
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+            "SanitizedText": "فصل لربك وٱنحر",
+            "TotalWords": 3,
+            "TotalGematricValue": 716,
+            "Words": [
+                "فصل",
+                "لربك",
+                "وٱنحر"
+            ],
+            "GematricValues": [
+                200,
+                252,
+                264
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+            "SanitizedText": "ان شانئك هو ٱلابتر",
+            "TotalWords": 4,
+            "TotalGematricValue": 1066,
+            "Words": [
+                "ان",
+                "شانئك",
+                "هو",
+                "ٱلابتر"
+            ],
+            "GematricValues": [
+                51,
+                371,
+                11,
+                633
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

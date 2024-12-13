@@ -1,0 +1,204 @@
+{
+    "SurahID": 104,
+    "Name": "الهمزة",
+    "TotalNumberedVerses": 9,
+    "TotalVerses": 10,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+            "SanitizedText": "ويل لكل همزه لمزه",
+            "TotalWords": 4,
+            "TotalGematricValue": 265,
+            "Words": [
+                "ويل",
+                "لكل",
+                "همزه",
+                "لمزه"
+            ],
+            "GematricValues": [
+                46,
+                80,
+                57,
+                82
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+            "SanitizedText": "ٱلذي جمع مالا وعددهۥ",
+            "TotalWords": 4,
+            "TotalGematricValue": 1014,
+            "Words": [
+                "ٱلذي",
+                "جمع",
+                "مالا",
+                "وعددهۥ"
+            ],
+            "GematricValues": [
+                740,
+                113,
+                72,
+                89
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+            "SanitizedText": "يحسب ان مالهۥٓ اخلدهۥ",
+            "TotalWords": 4,
+            "TotalGematricValue": 847,
+            "Words": [
+                "يحسب",
+                "ان",
+                "مالهۥٓ",
+                "اخلدهۥ"
+            ],
+            "GematricValues": [
+                80,
+                51,
+                76,
+                640
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+            "SanitizedText": "كلا ۖ لينۢبذن في ٱلحطمه",
+            "TotalWords": 5,
+            "TotalGematricValue": 1075,
+            "Words": [
+                "كلا",
+                "ۖ",
+                "لينۢبذن",
+                "في",
+                "ٱلحطمه"
+            ],
+            "GematricValues": [
+                51,
+                0,
+                842,
+                90,
+                92
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+            "SanitizedText": "ومآ ادريٰك ما ٱلحطمه",
+            "TotalWords": 4,
+            "TotalGematricValue": 415,
+            "Words": [
+                "ومآ",
+                "ادريٰك",
+                "ما",
+                "ٱلحطمه"
+            ],
+            "GematricValues": [
+                47,
+                235,
+                41,
+                92
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+            "SanitizedText": "نار ٱلله ٱلموقده",
+            "TotalWords": 3,
+            "TotalGematricValue": 501,
+            "Words": [
+                "نار",
+                "ٱلله",
+                "ٱلموقده"
+            ],
+            "GematricValues": [
+                251,
+                65,
+                185
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+            "SanitizedText": "ٱلتي تطلع علي ٱلافـٔده",
+            "TotalWords": 4,
+            "TotalGematricValue": 1179,
+            "Words": [
+                "ٱلتي",
+                "تطلع",
+                "علي",
+                "ٱلافـٔده"
+            ],
+            "GematricValues": [
+                440,
+                509,
+                110,
+                120
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+            "SanitizedText": "انها عليهم مؤصده",
+            "TotalWords": 3,
+            "TotalGematricValue": 351,
+            "Words": [
+                "انها",
+                "عليهم",
+                "مؤصده"
+            ],
+            "GematricValues": [
+                57,
+                155,
+                139
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 9,
+            "RawText": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+            "SanitizedText": "في عمد ممددهۭ",
+            "TotalWords": 3,
+            "TotalGematricValue": 297,
+            "Words": [
+                "في",
+                "عمد",
+                "ممددهۭ"
+            ],
+            "GematricValues": [
+                90,
+                114,
+                93
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

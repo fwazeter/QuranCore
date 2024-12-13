@@ -1,0 +1,140 @@
+{
+    "SurahID": 114,
+    "Name": "الناس",
+    "TotalNumberedVerses": 6,
+    "TotalVerses": 7,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+            "SanitizedText": "قل اعوذ برب ٱلناس",
+            "TotalWords": 4,
+            "TotalGematricValue": 1252,
+            "Words": [
+                "قل",
+                "اعوذ",
+                "برب",
+                "ٱلناس"
+            ],
+            "GematricValues": [
+                130,
+                777,
+                204,
+                141
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "مَلِكِ ٱلنَّاسِ",
+            "SanitizedText": "ملك ٱلناس",
+            "TotalWords": 2,
+            "TotalGematricValue": 231,
+            "Words": [
+                "ملك",
+                "ٱلناس"
+            ],
+            "GematricValues": [
+                90,
+                141
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "إِلَـٰهِ ٱلنَّاسِ",
+            "SanitizedText": "الـٰه ٱلناس",
+            "TotalWords": 2,
+            "TotalGematricValue": 177,
+            "Words": [
+                "الـٰه",
+                "ٱلناس"
+            ],
+            "GematricValues": [
+                36,
+                141
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+            "SanitizedText": "من شر ٱلوسواس ٱلخناس",
+            "TotalWords": 4,
+            "TotalGematricValue": 1494,
+            "Words": [
+                "من",
+                "شر",
+                "ٱلوسواس",
+                "ٱلخناس"
+            ],
+            "GematricValues": [
+                90,
+                500,
+                163,
+                741
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+            "SanitizedText": "ٱلذي يوسوس في صدور ٱلناس",
+            "TotalWords": 5,
+            "TotalGematricValue": 1413,
+            "Words": [
+                "ٱلذي",
+                "يوسوس",
+                "في",
+                "صدور",
+                "ٱلناس"
+            ],
+            "GematricValues": [
+                740,
+                142,
+                90,
+                300,
+                141
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+            "SanitizedText": "من ٱلجنه وٱلناس",
+            "TotalWords": 3,
+            "TotalGematricValue": 325,
+            "Words": [
+                "من",
+                "ٱلجنه",
+                "وٱلناس"
+            ],
+            "GematricValues": [
+                90,
+                88,
+                147
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

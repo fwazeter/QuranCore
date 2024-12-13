@@ -1,0 +1,232 @@
+{
+    "SurahID": 101,
+    "Name": "القارعة",
+    "TotalNumberedVerses": 11,
+    "TotalVerses": 12,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "ٱلْقَارِعَةُ",
+            "SanitizedText": "ٱلقارعه",
+            "TotalWords": 1,
+            "TotalGematricValue": 406,
+            "Words": [
+                "ٱلقارعه"
+            ],
+            "GematricValues": [
+                406
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "مَا ٱلْقَارِعَةُ",
+            "SanitizedText": "ما ٱلقارعه",
+            "TotalWords": 2,
+            "TotalGematricValue": 447,
+            "Words": [
+                "ما",
+                "ٱلقارعه"
+            ],
+            "GematricValues": [
+                41,
+                406
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+            "SanitizedText": "ومآ ادريٰك ما ٱلقارعه",
+            "TotalWords": 4,
+            "TotalGematricValue": 729,
+            "Words": [
+                "ومآ",
+                "ادريٰك",
+                "ما",
+                "ٱلقارعه"
+            ],
+            "GematricValues": [
+                47,
+                235,
+                41,
+                406
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "SanitizedText": "يوم يكون ٱلناس كٱلفراش ٱلمبثوث",
+            "TotalWords": 5,
+            "TotalGematricValue": 1992,
+            "Words": [
+                "يوم",
+                "يكون",
+                "ٱلناس",
+                "كٱلفراش",
+                "ٱلمبثوث"
+            ],
+            "GematricValues": [
+                56,
+                86,
+                141,
+                631,
+                1078
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+            "SanitizedText": "وتكون ٱلجبال كٱلعهن ٱلمنفوش",
+            "TotalWords": 4,
+            "TotalGematricValue": 1229,
+            "Words": [
+                "وتكون",
+                "ٱلجبال",
+                "كٱلعهن",
+                "ٱلمنفوش"
+            ],
+            "GematricValues": [
+                482,
+                66,
+                175,
+                506
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+            "SanitizedText": "فاما من ثقلت موٰزينهۥ",
+            "TotalWords": 4,
+            "TotalGematricValue": 1360,
+            "Words": [
+                "فاما",
+                "من",
+                "ثقلت",
+                "موٰزينهۥ"
+            ],
+            "GematricValues": [
+                122,
+                90,
+                1030,
+                118
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 7,
+            "RawText": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+            "SanitizedText": "فهو في عيشه راضيه",
+            "TotalWords": 4,
+            "TotalGematricValue": 1582,
+            "Words": [
+                "فهو",
+                "في",
+                "عيشه",
+                "راضيه"
+            ],
+            "GematricValues": [
+                91,
+                90,
+                385,
+                1016
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 8,
+            "RawText": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+            "SanitizedText": "واما من خفت موٰزينهۥ",
+            "TotalWords": 4,
+            "TotalGematricValue": 1336,
+            "Words": [
+                "واما",
+                "من",
+                "خفت",
+                "موٰزينهۥ"
+            ],
+            "GematricValues": [
+                48,
+                90,
+                1080,
+                118
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 9,
+            "RawText": "فَأُمُّهُۥ هَاوِيَةٌ",
+            "SanitizedText": "فامهۥ هاويه",
+            "TotalWords": 2,
+            "TotalGematricValue": 153,
+            "Words": [
+                "فامهۥ",
+                "هاويه"
+            ],
+            "GematricValues": [
+                126,
+                27
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 10,
+            "RawText": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+            "SanitizedText": "ومآ ادريٰك ما هيه",
+            "TotalWords": 4,
+            "TotalGematricValue": 343,
+            "Words": [
+                "ومآ",
+                "ادريٰك",
+                "ما",
+                "هيه"
+            ],
+            "GematricValues": [
+                47,
+                235,
+                41,
+                20
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 11,
+            "RawText": "نَارٌ حَامِيَةٌۢ",
+            "SanitizedText": "نار حاميهۢ",
+            "TotalWords": 2,
+            "TotalGematricValue": 315,
+            "Words": [
+                "نار",
+                "حاميهۢ"
+            ],
+            "GematricValues": [
+                251,
+                64
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

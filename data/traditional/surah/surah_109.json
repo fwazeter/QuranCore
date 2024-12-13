@@ -1,0 +1,152 @@
+{
+    "SurahID": 109,
+    "Name": "الكافرون",
+    "TotalNumberedVerses": 6,
+    "TotalVerses": 7,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+            "SanitizedText": "قل يـٰٓايها ٱلكـٰفرون",
+            "TotalWords": 3,
+            "TotalGematricValue": 543,
+            "Words": [
+                "قل",
+                "يـٰٓايها",
+                "ٱلكـٰفرون"
+            ],
+            "GematricValues": [
+                130,
+                27,
+                386
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+            "SanitizedText": "لآ اعبد ما تعبدون",
+            "TotalWords": 4,
+            "TotalGematricValue": 681,
+            "Words": [
+                "لآ",
+                "اعبد",
+                "ما",
+                "تعبدون"
+            ],
+            "GematricValues": [
+                31,
+                77,
+                41,
+                532
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+            "SanitizedText": "ولآ انتم عـٰبدون مآ اعبد",
+            "TotalWords": 5,
+            "TotalGematricValue": 778,
+            "Words": [
+                "ولآ",
+                "انتم",
+                "عـٰبدون",
+                "مآ",
+                "اعبد"
+            ],
+            "GematricValues": [
+                37,
+                491,
+                132,
+                41,
+                77
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+            "SanitizedText": "ولآ انا۠ عابد ما عبدتم",
+            "TotalWords": 5,
+            "TotalGematricValue": 723,
+            "Words": [
+                "ولآ",
+                "انا۠",
+                "عابد",
+                "ما",
+                "عبدتم"
+            ],
+            "GematricValues": [
+                37,
+                52,
+                77,
+                41,
+                516
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 5,
+            "RawText": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+            "SanitizedText": "ولآ انتم عـٰبدون مآ اعبد",
+            "TotalWords": 5,
+            "TotalGematricValue": 778,
+            "Words": [
+                "ولآ",
+                "انتم",
+                "عـٰبدون",
+                "مآ",
+                "اعبد"
+            ],
+            "GematricValues": [
+                37,
+                491,
+                132,
+                41,
+                77
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 6,
+            "RawText": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+            "SanitizedText": "لكم دينكم ولي دين",
+            "TotalWords": 4,
+            "TotalGematricValue": 324,
+            "Words": [
+                "لكم",
+                "دينكم",
+                "ولي",
+                "دين"
+            ],
+            "GematricValues": [
+                90,
+                124,
+                46,
+                64
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}

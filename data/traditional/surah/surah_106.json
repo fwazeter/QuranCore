@@ -1,0 +1,110 @@
+{
+    "SurahID": 106,
+    "Name": "قريش",
+    "TotalNumberedVerses": 4,
+    "TotalVerses": 5,
+    "Ayahs": [
+        {
+            "AyahID": 0,
+            "RawText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "SanitizedText": "بسم ٱلله ٱلرحمـٰن ٱلرحيم",
+            "TotalWords": 4,
+            "TotalGematricValue": 783,
+            "Words": [
+                "بسم",
+                "ٱلله",
+                "ٱلرحمـٰن",
+                "ٱلرحيم"
+            ],
+            "GematricValues": [
+                102,
+                65,
+                328,
+                288
+            ],
+            "VerseType": "Unnumbered"
+        },
+        {
+            "AyahID": 1,
+            "RawText": "لِإِيلَـٰفِ قُرَيْشٍ",
+            "SanitizedText": "لايلـٰف قريش",
+            "TotalWords": 2,
+            "TotalGematricValue": 761,
+            "Words": [
+                "لايلـٰف",
+                "قريش"
+            ],
+            "GematricValues": [
+                151,
+                610
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 2,
+            "RawText": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+            "SanitizedText": "اۦلـٰفهم رحله ٱلشتآء وٱلصيف",
+            "TotalWords": 4,
+            "TotalGematricValue": 1346,
+            "Words": [
+                "اۦلـٰفهم",
+                "رحله",
+                "ٱلشتآء",
+                "وٱلصيف"
+            ],
+            "GematricValues": [
+                156,
+                243,
+                731,
+                216
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 3,
+            "RawText": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+            "SanitizedText": "فليعبدوا۟ رب هـٰذا ٱلبيت",
+            "TotalWords": 4,
+            "TotalGematricValue": 1553,
+            "Words": [
+                "فليعبدوا۟",
+                "رب",
+                "هـٰذا",
+                "ٱلبيت"
+            ],
+            "GematricValues": [
+                203,
+                202,
+                706,
+                442
+            ],
+            "VerseType": "Numbered"
+        },
+        {
+            "AyahID": 4,
+            "RawText": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+            "SanitizedText": "ٱلذيٓ اطعمهم من جوع وءامنهم من خوفۭ",
+            "TotalWords": 7,
+            "TotalGematricValue": 1992,
+            "Words": [
+                "ٱلذيٓ",
+                "اطعمهم",
+                "من",
+                "جوع",
+                "وءامنهم",
+                "من",
+                "خوفۭ"
+            ],
+            "GematricValues": [
+                740,
+                165,
+                90,
+                79,
+                142,
+                90,
+                686
+            ],
+            "VerseType": "Numbered"
+        }
+    ]
+}
