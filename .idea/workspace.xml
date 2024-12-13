@@ -5,42 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999ff852-5174-4780-a68d-7be3253814f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/QuranCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI Prompts/import_organization_guidelines.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/analysis/frequency_analysis.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/analysis/thematic_analysis.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/quran-uthmani.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/roots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/ayah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/gematria_engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/quran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/root.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/surah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/test_ayah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/test_gematria_engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/test_quran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/test_root.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/test_surah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/tests/test_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quran_engine/word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/extractors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/file_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/parse_quran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/root_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/text_sanitization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/tokenization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/class_design_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/unit_tests_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI Prompts/import_organization_guidelines.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/import_organization_guidelines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/ayah.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/ayah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/gematria_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/gematria_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/quran.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/quran.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/root.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/surah.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/surah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/tests/test_ayah.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/tests/test_ayah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/tests/test_gematria_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/tests/test_gematria_engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/tests/test_quran.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/tests/test_quran.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/tests/test_root.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/tests/test_root.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/tests/test_surah.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/tests/test_surah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/tests/test_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/tests/test_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quran_engine/word.py" beforeDir="false" afterPath="$PROJECT_DIR$/quran_engine/word.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733634977839</updated>
       <workItem from="1733634979058" duration="3796000" />
-      <workItem from="1734067796006" duration="21107000" />
+      <workItem from="1734067796006" duration="47842000" />
     </task>
     <servers />
   </component>

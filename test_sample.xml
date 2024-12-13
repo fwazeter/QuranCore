@@ -1,0 +1,11 @@
+
+        <quran>
+            <surah id="1" name="Al-Fatiha" revelation_order="5" total_ayahs="7">
+                <ayah id="1" position="1">
+                    <text>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</text>
+                    <word id="1">بِسْمِ</word>
+                    <word id="2">اللَّهِ</word>
+                </ayah>
+            </surah>
+        </quran>
+        
